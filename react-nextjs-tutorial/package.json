@@ -1,0 +1,12 @@
+{
+    "scripts": {
+        "dev": "../node_modules/.bin/next dev",
+        "build": "../node_modules/.bin/next build",
+        "start": "../node_modules/.bin/next start"
+    },
+    "dependencies": {
+        "next": "^13.1.6",
+        "react": "^18.2.0",
+        "react-dom": "^18.2.0"
+    }
+}
